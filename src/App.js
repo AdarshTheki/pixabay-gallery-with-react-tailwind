@@ -19,9 +19,9 @@ function App() {
         setIsLoading(false);
       } catch (error) {
         console.error("Error fetching images:", error);
+        setIsLoading(false);
       }
     };
-
     fetchImages();
   }, [term]);
 

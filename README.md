@@ -54,10 +54,10 @@ This can include guidelines for creating issues, submitting pull requests, and c
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MTS License]().
 
 ## Contact
 
-[Adarsh Verma] - [adarshverma549@gmail.com]
+Adarsh Verma - [contact](adarshverma549@gmail.com)
 
-Project Link: []
+[Project Link](https://master--adarshtheki-pixabay-gallery.netlify.app/)
